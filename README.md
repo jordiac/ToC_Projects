@@ -1,4 +1,17 @@
-# Recap of the main assignments
+# Main Projects
+
+# Table of contents
+
+## Capstone Project
+Final Capstone Project aiming to create a NLP App capable of predicting the next word 
+
+-Readme file : [link](https://github.com/jordiac/Capstone_DSS/blob/master/README.md)
+
+-Shiny App: [link](https://jordiac.shinyapps.io/nlp_nwp/)
+
+-Rpubs Presentation: [link](http://rpubs.com/jordiac/NPW)
+
+
 
 ## Reproducible Research
 
@@ -30,10 +43,5 @@
 -Assignment : [link](http://rawgit.com/jordiac/Machine-learning-assign/master/Machin_Learn_Assign.html)
 
 
-## Capstone Project
 
--Readme file : [link](https://github.com/jordiac/Capstone_DSS/blob/master/README.md)
 
--Shiny App: [link](https://jordiac.shinyapps.io/nlp_nwp/)
-
--Rpubs Presentation: [link](http://rpubs.com/jordiac/NPW)
